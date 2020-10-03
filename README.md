@@ -1,5 +1,5 @@
 # grpc_faruk
 
-grpc math implemantion 
+grpc basix math  operation  explanation 
 
-http ->  handler -> grpc call -> grpc server -> return it 
+http ->  handler -> grpc call -> grpc server -> grpc return -> http return 
